@@ -1,0 +1,31 @@
+sl_no,state,B_sanctioned,B_installed,B_rate,B_gap,B_sanctioned_jun24,B_installed_jun24,installed_delta,sanctioned_revised,cfa_category,central_cfa_pct,farmer_cost_share_max_pct,ghi_kwh_m2_day,ghi_tier,no_base,small_base,analysis_sample
+30,Andaman and Nicobar Islands,34,0,0.0,34,34,0,0,0,special,50,20,4.6,4,False,True,False
+1,Arunachal Pradesh,700,394,56.285714285714285,306,700,259,135,0,special,50,20,4.2,4,False,True,False
+2,Assam,4000,0,0.0,4000,4000,0,0,0,special,50,20,4.3,4,False,False,True
+4,Bihar,0,0,,0,0,0,0,0,general,30,40,4.8,3,True,False,False
+3,Chhattisgarh,10000,0,0.0,10000,10000,0,0,0,general,30,40,5.0,2,False,False,True
+6,Goa,900,80,8.88888888888889,820,900,0,80,0,general,30,40,5.0,2,False,True,False
+5,Gujarat,12382,7705,62.22742691003069,4677,12382,6399,1306,0,general,30,40,5.6,1,False,False,True
+7,Haryana,197655,137594,69.61321494523285,60061,252655,102973,34621,-55000,general,30,40,5.1,2,False,False,True
+8,Himachal Pradesh,1270,685,53.93700787401575,585,1270,638,47,0,special,50,20,4.4,4,False,False,True
+9,Jammu and Kashmir,5000,1937,38.74,3063,5000,1425,512,0,special,50,20,4.8,3,False,False,True
+10,Jharkhand,42985,23999,55.83110387344423,18986,42985,15051,8948,0,general,30,40,4.9,3,False,False,True
+11,Karnataka,41360,1674,4.0473887814313345,39686,27214,1368,306,14146,general,30,40,5.2,2,False,False,True
+12,Kerala,8,8,100.0,0,100,8,0,-92,general,30,40,4.6,4,False,True,False
+13,Ladakh,1400,0,0.0,1400,1400,0,0,0,special,50,20,5.8,1,False,False,True
+14,Madhya Pradesh,59400,7325,12.331649831649832,52075,59400,7325,0,0,general,30,40,5.4,1,False,False,True
+15,Maharashtra,505000,222933,44.145148514851485,282067,405000,119306,103627,100000,general,30,40,5.1,2,False,False,True
+16,Manipur,150,78,52.0,72,150,78,0,0,special,50,20,4.4,4,False,True,False
+17,Meghalaya,3035,96,3.1630971993410215,2939,3035,96,0,0,special,50,20,4.3,4,False,False,True
+18,Mizoram,1700,40,2.3529411764705883,1660,2700,0,40,-1000,special,50,20,4.4,4,False,False,True
+19,Nagaland,265,65,24.528301886792452,200,265,65,0,0,special,50,20,4.4,4,False,True,False
+20,Odisha,16441,5478,33.31914117146159,10963,8241,3766,1712,8200,general,30,40,4.9,3,False,False,True
+21,Puducherry,0,0,,0,0,0,0,0,general,30,40,5.1,2,True,False,False
+22,Punjab,53000,12952,24.437735849056605,40048,103000,12952,0,-50000,general,30,40,5.1,2,False,False,True
+23,Rajasthan,212914,89245,41.915984857735985,123669,262914,72603,16642,-50000,general,30,40,5.7,1,False,False,True
+24,Tamil Nadu,5200,3909,75.17307692307692,1291,5200,3236,673,0,general,30,40,5.2,2,False,False,True
+25,Telangana,0,0,,0,400,0,0,-400,general,30,40,5.3,2,True,False,False
+26,Tripura,10895,3537,32.46443322625058,7358,10895,2828,709,0,special,50,20,4.4,4,False,False,True
+27,Uttar Pradesh,110948,54117,48.77690449579983,56831,118790,46743,7374,-7842,general,30,40,4.9,3,False,False,True
+28,Uttarakhand,5685,473,8.32014072119613,5212,5685,318,155,0,special,50,20,4.6,4,False,False,True
+29,West Bengal,0,0,,0,10000,0,0,-10000,general,30,40,4.7,3,True,False,False
